@@ -1,0 +1,5 @@
+.Subtitle {
+  font-size: calc(7px + 1vmin);
+  color: var(--DARK_GRAY);
+  font-family: NunitoSans-ExtraLight;
+}

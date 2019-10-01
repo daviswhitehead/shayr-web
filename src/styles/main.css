@@ -1,0 +1,18 @@
+:root {
+  --YELLOW: #f2c94c;
+  --BLACK: #000000;
+  --DARK_GRAY: #7e7e7e;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.Screen-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}

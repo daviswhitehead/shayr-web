@@ -1,0 +1,27 @@
+.Desktop {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.Mobile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: right;
+}
+
+.Container {
+  background-color: var(--BLACK);
+  padding: 1vmin;
+}
+
+.Link {
+  font-size: calc(8px + 1vmin);
+  color: var(--YELLOW);
+  margin: 1vmin;
+  font-family: NunitoSans-Bold;
+  text-decoration: underline;
+}
