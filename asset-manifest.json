@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/shayr-web/static/css/main.3a30bf42.chunk.css",
-    "main.js": "/shayr-web/static/js/main.75b88b1f.chunk.js",
-    "main.js.map": "/shayr-web/static/js/main.75b88b1f.chunk.js.map",
-    "runtime-main.js": "/shayr-web/static/js/runtime-main.cbec9548.js",
-    "runtime-main.js.map": "/shayr-web/static/js/runtime-main.cbec9548.js.map",
-    "static/js/2.bab190a8.chunk.js": "/shayr-web/static/js/2.bab190a8.chunk.js",
-    "static/js/2.bab190a8.chunk.js.map": "/shayr-web/static/js/2.bab190a8.chunk.js.map",
-    "index.html": "/shayr-web/index.html",
-    "precache-manifest.43fef3944329a7c2bb68cfbee57fe0b4.js": "/shayr-web/precache-manifest.43fef3944329a7c2bb68cfbee57fe0b4.js",
-    "service-worker.js": "/shayr-web/service-worker.js",
-    "static/css/main.3a30bf42.chunk.css.map": "/shayr-web/static/css/main.3a30bf42.chunk.css.map",
-    "static/media/fonts.css": "/shayr-web/static/media/NunitoSans-SemiBoldItalic.0e3a7dbb.ttf",
-    "static/media/compiled.mov": "/shayr-web/static/media/compiled.5c9d9da2.mov",
-    "static/media/shayr-icon.png": "/shayr-web/static/media/shayr-icon.be76d5ff.png",
-    "static/media/shayr-logo.6e5e9a16.svg": "/shayr-web/static/media/shayr-logo.6e5e9a16.svg",
-    "static/media/vector-share-google.png": "/shayr-web/static/media/vector-share-google.3f8eb852.png"
+    "main.css": "/static/css/main.237a9955.chunk.css",
+    "main.js": "/static/js/main.d40d0e50.chunk.js",
+    "main.js.map": "/static/js/main.d40d0e50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84d0cf64.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84d0cf64.js.map",
+    "static/js/2.b230d921.chunk.js": "/static/js/2.b230d921.chunk.js",
+    "static/js/2.b230d921.chunk.js.map": "/static/js/2.b230d921.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2b21a2be9a88e7d7bda487b78fd1138d.js": "/precache-manifest.2b21a2be9a88e7d7bda487b78fd1138d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.237a9955.chunk.css.map": "/static/css/main.237a9955.chunk.css.map",
+    "static/media/fonts.css": "/static/media/NunitoSans-SemiBoldItalic.0e3a7dbb.ttf",
+    "static/media/compiled.mov": "/static/media/compiled.5c9d9da2.mov",
+    "static/media/shayr-icon.png": "/static/media/shayr-icon.be76d5ff.png",
+    "static/media/shayr-logo.6e5e9a16.svg": "/static/media/shayr-logo.6e5e9a16.svg",
+    "static/media/vector-share-google.png": "/static/media/vector-share-google.3f8eb852.png"
   }
 }
