@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shayr-web/precache-manifest.d5f3fde8defc1a5f5c8b0a15c46059f9.js"
+  "/shayr-web/precache-manifest.43fef3944329a7c2bb68cfbee57fe0b4.js"
 );
 
 self.addEventListener('message', (event) => {
