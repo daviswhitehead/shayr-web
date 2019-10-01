@@ -7,14 +7,21 @@ import Subtitle from '../Subtitle'
 class Brand extends Component {
   
   render() {
+    const {onPress} = this.props;
+
     return (
-      <div className="Brand" style={{
+      <div>
+      <button className="Brand" style={{
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'flex-start',
-        alignItems: 'flex-start'
+        alignItems: 'flex-start',
+        borderRadius: 8,
+        margin: 8,
         
-      }}>
+      }}
+        onClick={onPress}
+      >
         <Logo />
         <div style={{
         display: 'flex',
@@ -24,9 +31,10 @@ class Brand extends Component {
         marginLeft: 8,
         
       }}>
-        <Title />
-        <Subtitle />
+        <Title copy="Shayr"/>
+        <Subtitle copy="Discover Together" />
         </div>
+      </button>
       </div>
     );
   }

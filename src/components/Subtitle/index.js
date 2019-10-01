@@ -5,7 +5,7 @@ class Subtitle extends Component {
   
   render() {
     return (
-        <text className="Subtitle">Discover Together</text>
+        <text className="Subtitle" style={this.props.style}>{this.props.copy}</text>
     );
   }
 }

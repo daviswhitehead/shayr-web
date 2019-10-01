@@ -1,0 +1,7 @@
+.Paragraph {
+  font-size: calc(12px + 1vmin);
+  color: var(--BLACK);
+  font-family: NunitoSans-Light;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}

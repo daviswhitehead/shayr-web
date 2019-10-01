@@ -15,7 +15,7 @@
 
 .Container {
   background-color: var(--BLACK);
-  padding: 1vmin;
+  padding: 16px;
 }
 
 .Link {

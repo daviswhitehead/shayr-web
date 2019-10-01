@@ -5,7 +5,7 @@ class Title extends Component {
   
   render() {
     return (
-        <text className="Title">Shayr</text>
+        <text className="Title" style={this.props.style}>{this.props.copy}</text>
     );
   }
 }

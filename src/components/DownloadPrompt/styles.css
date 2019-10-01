@@ -1,0 +1,5 @@
+.Title {
+  font-size: calc(24px + 1vmin);
+  color: var(--BLACK);
+  font-family: NunitoSans-ExtraBold;
+}

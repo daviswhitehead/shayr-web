@@ -10,7 +10,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.Screen-container {
+.Screen-container-stretch {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.Screen-container-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.Screen-container-max-width {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;

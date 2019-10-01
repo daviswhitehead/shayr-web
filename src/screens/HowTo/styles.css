@@ -1,0 +1,13 @@
+.orderedList {
+  color: var(--BLACK);
+  font-family: NunitoSans-Light;
+  margin: 0px;
+  margin-top: -6px;
+  margin-bottom: 6px;
+}
+
+.orderedListItem {
+  margin: 0px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
