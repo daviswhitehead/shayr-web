@@ -2,7 +2,7 @@
   "name": "shayr-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://daviswhitehead.github.io/shayr-web",
+  "homepage": "https://wwww.shayr.app",
   "dependencies": {
     "react": "^16.10.1",
     "react-device-detect": "^1.9.10",
